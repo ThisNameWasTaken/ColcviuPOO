@@ -115,6 +115,21 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Copil.cpp" />
+    <ClCompile Include="Dinca_Adrian_Florin_143.cpp" />
+    <ClCompile Include="Eveniment.cpp" />
+    <ClCompile Include="Muzeu.cpp" />
+    <ClCompile Include="Pensionar.cpp" />
+    <ClCompile Include="Persoana.cpp" />
+    <ClCompile Include="Student.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Copil.h" />
+    <ClInclude Include="Eveniment.h" />
+    <ClInclude Include="Muzeu.h" />
+    <ClInclude Include="Pensionar.h" />
+    <ClInclude Include="Persoana.h" />
+    <ClInclude Include="Student.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
